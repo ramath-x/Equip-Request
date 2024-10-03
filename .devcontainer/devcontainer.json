@@ -9,11 +9,6 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				// "mikestead.dotenv",
-				// "amiralizadeh9480.laravel-extra-intellisense",
-				// "ryannaddy.laravel-artisan",
-				// "onecentlin.laravel5-snippets",
-				// "onecentlin.laravel-blade"
 				"naoray.laravel-goto-components",
 				"webdevsavvy.blade-components",
 				"amiralizadeh9480.laravel-extra-intellisense",
@@ -44,7 +39,8 @@
 				"VisualStudioExptTeam.vscodeintellicode",
 				"waderyan.gitblame",
 				"xdebug.php-debug",
-				"yzhang.markdown-all-in-one"
+				"yzhang.markdown-all-in-one",
+				"codingyu.laravel-goto-view"
 			],
 			"settings": {}
 		}
