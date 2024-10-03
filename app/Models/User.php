@@ -16,10 +16,17 @@ class User extends Authenticatable
      *
      * @var array<int, string>
      */
+
+     const NAME = 'name';
+     const EMAIL = 'email';
+     const PASSWORD = 'password';
+     const CREATE_AT_ADMIN = 'create_at_admin';
+
     protected $fillable = [
         'name',
         'email',
         'password',
+        'create_at_admin',
     ];
 
     /**
